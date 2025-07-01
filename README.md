@@ -1,8 +1,6 @@
 # Threat Simulation & SIEM Detection Pipeline (TS-SDP)
 
-<p align="center">
-  <img src="docs/architecture.png" alt="TS-SDP Logo" width="600"/>
-</p>
+
 
 **Threat Simulation & SIEM Detection Pipeline (TS-SDP)** is an end-to-end environment that simulates real-world cyberattacks and detects them using a full ELK Stack-based SIEM setup. It empowers security researchers, SOC analysts, and students to build, observe, and understand log telemetry and detection logic.
 
@@ -10,9 +8,9 @@
 
 ## 🧠 Project Architecture
 
-<p align="center">
-  <img src="docs/lab_diagram.png" alt="Architecture Diagram" width="700"/>
-</p>
+![image](https://github.com/user-attachments/assets/a071e85e-6f77-4dd0-9d87-c1060f2757ed)
+
+![image](https://github.com/user-attachments/assets/db9a56e2-aa2c-4705-8dc9-275652f8e175)
 
 The architecture includes:
 
